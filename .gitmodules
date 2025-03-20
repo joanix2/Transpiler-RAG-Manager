@@ -1,0 +1,9 @@
+[submodule "external/RAG"]
+	path = external/RAG
+	url = https://github.com/joanix2/RAG.git
+[submodule "external/Jinja-Templates"]
+	path = external/Jinja-Templates
+	url = https://github.com/joanix2/Jinja-Templates.git
+[submodule "external/JSON-Tree-Jinja-Transpiler"]
+	path = external/JSON-Tree-Jinja-Transpiler
+	url = https://github.com/joanix2/JSON-Tree-Jinja-Transpiler.git
